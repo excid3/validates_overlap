@@ -1,6 +1,7 @@
 language: ruby
 rvm:
   - 2.2.2
+  - 2.6.3
 gemfile:
   - Gemfile.rails30
   - Gemfile.rails32
@@ -8,3 +9,5 @@ gemfile:
   - Gemfile.rails41
   - Gemfile.rails42
   - Gemfile.rails50
+  - Gemfile.rails52
+  - Gemfile.rails60
